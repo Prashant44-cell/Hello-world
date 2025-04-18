@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/prash/Downloads/Resume2.pdf](file:///C:/Users/prash/Downloads/Resume2.pdf)
 
-- ⚡ Fun fact **I think you me right>?**
+- ⚡ Fun fact **I think you know me right>?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
