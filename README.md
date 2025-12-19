@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Prashant Gupta </h1>
-<h3 align="center">A passionate Software developer from Nepal.</h3>
+<h3 align="center">A passionate Software developer from Vibing world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant44-cell&label=Profile%20views&color=0e75b6&style=flat" alt="prashant44-cell" /> </p>
 
@@ -7,7 +7,7 @@
 
 <h2><a href="https://vyhant.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a></h2>
 
-- ⚡ Fun fact **Currently vibing in Chennnai, where even browser tabs scream ‘Hello World.’ Proof that coding clichés aren’t just lines of code… they’re a whole lifestyle choice." 💻🌍✨**
+- ⚡Fun fact **Currently vibing in Chennnai, where even browser tabs scream ‘Hello World.’ Proof that coding clichés aren’t just lines of code… they’re a whole lifestyle choice." 💻🌍✨**
 
 <h1 align = "left"> Tech stack: </h1></br> 
 
