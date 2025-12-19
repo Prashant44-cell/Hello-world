@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **prashantvyahut.work@gmail.com**
 
-<h2><href = www.vyhant.vercel.app> Portfolio</href></h2>
+<h2><href = "https://vyhant.vercel.app/"> Portfolio</href></h2>
 
 - ⚡ Fun fact **I think you know me right>?**
 
