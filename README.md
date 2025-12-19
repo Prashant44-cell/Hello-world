@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think you know me right>?**
 
-<title> Tech stack </title>
+<h1> Tech stack </h1>
 
        
 <h3 align="left">Connect with me:</h3>
