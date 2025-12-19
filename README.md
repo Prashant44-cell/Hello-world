@@ -180,9 +180,6 @@
             <a href="#" class="tech-badge raspberry">🍓 Raspberry Pi</a>
         </div>
     </div>
-</body>
-</html>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashant gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant gupta" height="30" width="40" /></a>
