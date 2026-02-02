@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Prashant Gupta</h1>
 
 
-<h3 align="center">A passionate Software .</h3>
+<h3 align="center">A passionate Software Devloper.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant44-cell&label=Profile%20views&color=0e75b6&style=flat" alt="prashant44-cell" /> </p>
 
