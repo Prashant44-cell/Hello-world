@@ -1,5 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Prashant </h1>
-
+<h1 align="center"> Hi 👋, I'm Prashant Gupta</h1>
 
 <h3 align="center">A passionate Software Devloper.</h3>
 
